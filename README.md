@@ -56,7 +56,7 @@ Esse tipo de análise é útil para **recursos humanos**, **consultorias de carr
 
 ## Como Executar Localmente
 
-### 🔧 Pré-requisitos
+### Pré-requisitos
 - Python 3.10+
 - Pipenv instalado
 
