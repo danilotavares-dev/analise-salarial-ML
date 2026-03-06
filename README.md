@@ -1,15 +1,15 @@
-# 💼 Análise Salarial com Machine Learning
+# Análise Salarial com Machine Learning
 
 Um projeto completo de **Ciência de Dados e Machine Learning** desenvolvido para prever **faixas salariais** com base em características profissionais e demográficas, como cargo, nível de experiência e formação acadêmica.
 
 O sistema inclui **três camadas principais**:
-- 🧠 Treinamento do modelo de aprendizado de máquina (Jupyter Notebook)
-- ⚙️ API em Python para servir o modelo
-- 💻 Interface interativa desenvolvida com Streamlit
+- Treinamento do modelo de aprendizado de máquina (Jupyter Notebook)
+- API em Python para servir o modelo
+- Interface interativa desenvolvida com Streamlit
 
 ---
 
-## 🚀 Objetivo do Projeto
+## Objetivo do Projeto
 O objetivo é explorar um conjunto de dados salariais e construir um modelo preditivo capaz de estimar o salário de um profissional com base em variáveis como:
 - Cargo ou área de atuação  
 - Tempo de experiência  
@@ -20,7 +20,7 @@ Esse tipo de análise é útil para **recursos humanos**, **consultorias de carr
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Python 3.10+**
 - **Pandas**, **NumPy** — manipulação e análise de dados  
 - **Scikit-learn** — criação e avaliação do modelo de Machine Learning  
@@ -31,7 +31,7 @@ Esse tipo de análise é útil para **recursos humanos**, **consultorias de carr
 
 ---
 
-## 📊 Etapas do Projeto
+## Etapas do Projeto
 
 1. **Análise Exploratória dos Dados (EDA)**
    - Limpeza, padronização e tratamento de valores ausentes  
@@ -54,13 +54,13 @@ Esse tipo de análise é útil para **recursos humanos**, **consultorias de carr
 
 ---
 
-## 🖥️ Como Executar Localmente
+## Como Executar Localmente
 
 ### 🔧 Pré-requisitos
 - Python 3.10+
 - Pipenv instalado
 
-### ⚙️ Passos
+### Passos
 ```bash
 # 1. Clonar o repositório
 git clone https://github.com/danilotavares/analise-salarial-ml.git
